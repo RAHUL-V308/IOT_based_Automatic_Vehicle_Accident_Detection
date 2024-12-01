@@ -1,4 +1,4 @@
-# IOT_based_Automatic_Vehicle_Accident_Detection
+# IOT_based_Automatic_Vehicle_Accident_Detection_And_Alert_System
 using esp32 microcontroller,adxl 335,GPS neo6m module and GSM sim800i module ,we can detect the accident at the occurred area
 
 🚗 Automatic Vehicle Accident Detection and Alert System
